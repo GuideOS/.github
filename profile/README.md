@@ -4,10 +4,12 @@
 
 **GuideOS** ist eine Debian-basierte Linux-Distribution, die durch gemeinschaftliche Entscheidungen im [Linux Guides Forum](https://forum.linuxguides.de/) entwickelt wird. Unser Ziel ist es nicht, die nächste "große" Distribution zu werden, sondern ein spannendes Experiment und Gemeinschaftsprojekt zu schaffen, bei dem die Community bestimmt, wie die Distribution aussehen und funktionieren soll.
 
+**Dies ist kein Linux Guides Projekt. GuideOS enstand aus der dortigen Community und wird mit dieser entwickelt, bleibt dabei aber unabhängig und eigenständig. GuideOS ist vielmehr als ein Zusammenschluss verschiedener Mitglieder des Forum zu sehen und die Linux Guides Community dient als Antrieb und Entscheidungsträger bei den meisten Fragen zur Entwicklung und Ausrichtung des Projektes**
+
 ## Projektphilosophie
 
-- **Gemeinsam statt einsam:** Jede Entscheidung wird gemeinschaftlich im Forum diskutiert und getroffen.
-- **Offen und transparent:** Der gesamte Entwicklungsprozess wird dokumentiert und ist für alle Community-Mitglieder nachvollziehbar.
+- **Gemeinsam statt einsam:** Die meisten Entscheidungen werden gemeinschaftlich im Forum diskutiert und getroffen.
+- **Offen und transparent:** Der Entwicklungsprozess wird dokumentiert und ist für alle Community-Mitglieder nachvollziehbar.
 - **Lernen und Ausprobieren:** GuideOS ist auch ein Test, wie weit ein Community-Projekt dieser Art kommen kann und was in dieser Form möglich ist.
 
 ## Hauptmerkmale
@@ -19,7 +21,7 @@
 
 ## Wie kann ich mitmachen?
 
-- **Besuche das [Linux Guides Forum](https://linuxguides.de/)** und registriere dich, um an den Diskussionen teilzunehmen.
+- **Besuche das [Linux Guides Forum](https://forum.linuxguides.de/)** und registriere dich, um an den Diskussionen teilzunehmen.
 - **Bringe deine Ideen ein:** Ob Designvorschläge, Anwendungswünsche oder Feedback – alles ist willkommen!
 - **Teste mit uns:** Hilf bei der Qualitätssicherung, indem du Betaversionen testest und Fehler meldest.
 - **Entwickle mit:** Wenn du Kenntnisse im Bereich der Entwicklung hast, bist du herzlich eingeladen, zur technischen Umsetzung beizutragen.
