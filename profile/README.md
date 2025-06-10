@@ -25,3 +25,6 @@
 - **Bringe deine Ideen ein:** Ob Designvorschläge, Anwendungswünsche oder Feedback – alles ist willkommen!
 - **Teste mit uns:** Hilf bei der Qualitätssicherung, indem du Betaversionen testest und Fehler meldest.
 - **Entwickle mit:** Wenn du Kenntnisse im Bereich der Entwicklung hast, bist du herzlich eingeladen, zur technischen Umsetzung beizutragen.
+
+## Wiki
+Wir beabsichtigen ein umfrangreiches Handbuch zur verfügung zu stellen. Derzeit befindet sich unser [Wiki](https://github.com/GuideOS/docs/wiki/1.-Willkommen) noch im Aufbau.
