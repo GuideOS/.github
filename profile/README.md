@@ -27,4 +27,4 @@
 - **Entwickle mit:** Wenn du Kenntnisse im Bereich der Entwicklung hast, bist du herzlich eingeladen, zur technischen Umsetzung beizutragen.
 
 ## Wiki
-Wir beabsichtigen ein umfrangreiches Handbuch zur verfügung zu stellen. Derzeit befindet sich unser **[Wiki](https://github.com/GuideOS/docs/wiki/1.-Willkommen)** noch im Aufbau.
+Wir beabsichtigen ein umfrangreiches Handbuch zur verfügung zu stellen. Derzeit befindet sich unser **[Wiki](https://github.com/GuideOS/docs/wiki)** noch im Aufbau.
