@@ -4,7 +4,7 @@
 
 **GuideOS** ist eine Debian-basierte Linux-Distribution, die durch gemeinschaftliche Entscheidungen im [Linux Guides Forum](https://forum.linuxguides.de/) entwickelt wird. Unser Ziel ist es nicht, die nächste "große" Distribution zu werden, sondern ein spannendes Experiment und Gemeinschaftsprojekt zu schaffen, bei dem die Community bestimmt, wie die Distribution aussehen und funktionieren soll.
 
-**Dies ist kein Linux Guides Projekt. GuideOS enstand aus der dortigen Community und wird mit dieser entwickelt, bleibt dabei aber unabhängig und eigenständig. GuideOS ist vielmehr als ein Zusammenschluss verschiedener Mitglieder des Forum zu sehen und die Linux Guides Community dient als Antrieb und Entscheidungsträger bei den meisten Fragen zur Entwicklung und Ausrichtung des Projektes**
+**Dies ist kein Linux Guides Projekt. GuideOS enstand aus der dortigen Community und wird mit dieser entwickelt, bleibt dabei aber unabhängig und eigenständig. GuideOS ist vielmehr als ein Zusammenschluss verschiedener Mitglieder des Forum zu sehen und die Linux Guides Community dient als Antrieb und Entscheidungsträger bei den meisten Fragen zur Entwicklung und Ausrichtung des Projektes.**
 
 ## Projektphilosophie
 
